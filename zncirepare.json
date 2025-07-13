@@ -1,38 +1,5 @@
 {
   "news4":[
-    {
-   "id":3,
-      "wene1":"https://video-delivery-worker.kurdishatlas.workers.dev/Logo/k.g.f2.jpg",
-      "wene":"https://video-delivery-worker.kurdishatlas.workers.dev/Logo/k.g.f2.jpg",
-      "ism":" ",
-      "nav":"K.G.F:Chapter 2",
-    "action":"film",
-    "aaction":" Action",
-    "raiting":"star",
-    "araitng":" 8.2",
-    "time":"time-sharp",
-    "atime":" 2h:46m",
-          "sal":"2025",
-          "pplay":"https://video-delivery-worker.kurdishatlas.workers.dev/Logo/pplay.png",
-    "trailer":"ترەیلەر",
-    "youtube":"RwFhPCXlDLw?si=MSao7K575G4Ijrce",
-      "youtube1":"TFaA13i7AAc?si=INYIZ5jPIFPxSVfE",
-      "youtube2":"pqZ-PkUlJkU?si=9E7EZINZdiTrUz7H",
-      "youtube3":"V_ePU1sZ1d8?si=cg4L_QT0eW7-JbRB",
-      "jor":"K.G.F:Chapter 2 (2022)",
-      "jer":"ژێرنڤیس",
-       "play1":"https://video-delivery-worker.kurdishatlas.workers.dev/play/play.png",
-"play":"https://video-delivery-worker.kurdishatlas.workers.dev/dublac/kgf.mp4",
- "kurti":"کورتی",
- "akurti":"ئەردێ بخوين و زەڤيێن زێرى يێن ( كەى جى ئێفێ ) نوكه خودان سەروەرەكێ نى يه. روكى، كو ناڤى وى ترسى دئيخيته دلێ دوژمنێن وى. هەفالێن وى روكى وەكى رزگاركەرێ خو دبينن، حكومەت وى وەكى مەترسى لسەر قانون و نيزامێ دبينن، دوژمن ژبوو تولڤەكرنێ گازى دكەن و ژبوو ژناڤچوناوى كومبونادكەن. ژبەر كو روكى لێگەرياناخو يا ژبوو سەروەرييا بسەربوور بەردەوام دبيت ، شيرێن ب خوينتر و روژێن تاريتر چاڤەرێ وينه",
-"actor":"https://media.themoviedb.org/t/p/w276_and_h350_face/es8St0vl9otL1XAAZJKYmNpL3Wy.jpg",
-"actor1":"https://media.themoviedb.org/t/p/w276_and_h350_face/zhYAdzlDMbhWr8ZBVDK02nrwnOJ.jpg",
- "actor2":"https://media.themoviedb.org/t/p/w276_and_h350_face/3ifGMlHKKRFvK9Sg5y2bs5jWUlI.jpg",
- "actor3":"https://media.themoviedb.org/t/p/w276_and_h350_face/pTsixKDFS3n2xsvR6wDZ9J6jjfQ.jpg",
- "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/kRmgREIRxLxNKssJMT7YxzNXmFH.jpg",
- "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/zO1MoCgaz0RxILjga8VYXguROMp.jpg",
-"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
-    }
-
+    
  ]
 }
